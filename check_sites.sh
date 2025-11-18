@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # chmod +x myscript.sh
-# Визначаємо масив з URL вебсайтів для перевірки
+# Визначимо масив з URL вебсайтів для перевірки
 sites=(
     "https://google.com"
     "https://facebook.com"
